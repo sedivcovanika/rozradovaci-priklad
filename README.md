@@ -1,1 +1,1 @@
-# rozradovaci-priklad
+# Rozraďovací príklad
